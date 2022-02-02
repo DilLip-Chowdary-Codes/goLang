@@ -18,11 +18,11 @@ My GoLang Journey
 - [x] Multiple Return Values
 - [x] Variadic Functions
 - [x] Closures
-- [ ] Recursion
-- [ ] Pointers
-- [ ] Structs
-- [ ] Methods
-- [ ] Interfaces
+- [x] Recursion
+- [x] Pointers
+- [x] Structs
+- [x] Methods
+- [x] Interfaces
 - [ ] Embedding
 - [ ] Errors
 - [ ] Goroutines
