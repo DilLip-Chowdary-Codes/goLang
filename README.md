@@ -23,13 +23,13 @@ My GoLang Journey
 - [x] Structs
 - [x] Methods
 - [x] Interfaces
-- [ ] Embedding
-- [ ] Errors
-- [ ] Goroutines
-- [ ] Channels
-- [ ] Channel Buffering
-- [ ] Channel Synchronization
-- [ ] Channel Directions
+- [x] Embedding
+- [x] Errors
+- [x] Goroutines
+- [x] Channels
+- [x] Channel Buffering
+- [x] Channel Synchronization
+- [x] Channel Directions
 - [ ] Select
 - [ ] Timeouts
 - [ ] Non-Blocking Channel Operations
