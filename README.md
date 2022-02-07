@@ -30,15 +30,15 @@ My GoLang Journey, I'm learning GO through [GoByExample](https://gobyexample.com
 - [x] Channel Buffering
 - [x] Channel Synchronization
 - [x] Channel Directions
-- [ ] Select
-- [ ] Timeouts
-- [ ] Non-Blocking Channel Operations
-- [ ] Closing Channels
-- [ ] Range over Channels
-- [ ] Timers
-- [ ] Tickers
-- [ ] Worker Pools
-- [ ] WaitGroups
+- [x] Select
+- [x] Timeouts
+- [x] Non-Blocking Channel Operations
+- [x] Closing Channels
+- [x] Range over Channels
+- [x] Timers
+- [x] Tickers
+- [x] Worker Pools
+- [x] WaitGroups
 - [ ] Rate Limiting
 - [ ] Atomic Counters
 - [ ] Mutexes
