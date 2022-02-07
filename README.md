@@ -1,5 +1,5 @@
 # goLang
-My GoLang Journey
+My GoLang Journey, I'm learning GO through [GoByExample](https://gobyexample.com/), Here I'm Updating the status of my learning.
 
 ## Status
 
