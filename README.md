@@ -39,17 +39,17 @@ My GoLang Journey, I'm learning GO through [GoByExample](https://gobyexample.com
 - [x] Tickers
 - [x] Worker Pools
 - [x] WaitGroups
-- [ ] Rate Limiting
-- [ ] Atomic Counters
-- [ ] Mutexes
-- [ ] Stateful Goroutines
-- [ ] Sorting
-- [ ] Sorting by Functions
-- [ ] Panic
-- [ ] Defer
-- [ ] Recover
-- [ ] Collection Functions
-- [ ] String Functions
+- [x] Rate Limiting
+- [x] Atomic Counters
+- [x] Mutexes
+- [x] Stateful Goroutines
+- [x] Sorting
+- [x] Sorting by Functions
+- [x] Panic
+- [x] Defer
+- [x] Recover
+- [x] Collection Functions
+- [x] string Functions
 - [ ] String Formatting
 - [ ] Regular Expressions
 - [ ] JSON
