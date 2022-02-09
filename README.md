@@ -50,12 +50,12 @@ My GoLang Journey, I'm learning GO through [GoByExample](https://gobyexample.com
 - [x] Recover
 - [x] Collection Functions
 - [x] string Functions
-- [ ] String Formatting
-- [ ] Regular Expressions
-- [ ] JSON
-- [ ] XML
-- [ ] Time
-- [ ] Epoch
+- [x] String Formatting
+- [x] Regular Expressions
+- [x] JSON
+- [x] XML
+- [x] Time
+- [x] Epoch
 - [ ] Time Formatting / Parsing
 - [ ] Random Numbers
 - [ ] Number Parsing
