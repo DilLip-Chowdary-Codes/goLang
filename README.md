@@ -20,6 +20,7 @@ My GoLang Journey, I'm learning GO through [GoByExample](https://gobyexample.com
 - [x] Closures
 - [x] Recursion
 - [x] Pointers
+- [ ] Strings and Runes
 - [x] Structs
 - [x] Methods
 - [x] Interfaces
@@ -51,6 +52,7 @@ My GoLang Journey, I'm learning GO through [GoByExample](https://gobyexample.com
 - [x] Collection Functions
 - [x] string Functions
 - [x] String Formatting
+- [ ] Text Templates
 - [x] Regular Expressions
 - [x] JSON
 - [x] XML
